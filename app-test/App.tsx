@@ -6,7 +6,7 @@ import PaymentModule from "./PaymentModule";
 
 const App = () => {
   function handleOpenPayment() {
-    PaymentModule.startPayment("1000", "123", false, "DEBIT", "NONE", "0");
+    PaymentModule.startPayment("1000", "123", false, "DEBIT");
   }
 
   return (
