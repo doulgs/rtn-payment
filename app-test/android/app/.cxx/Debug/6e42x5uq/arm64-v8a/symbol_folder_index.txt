@@ -1,0 +1,1 @@
+C:\Desenvolvimento\AppTurboModules\app-test\android\app\build\intermediates\cxx\Debug\6e42x5uq\obj\arm64-v8a

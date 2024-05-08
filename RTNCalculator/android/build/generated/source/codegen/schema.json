@@ -1,0 +1,40 @@
+{
+  "modules": {
+    "NativeCalculator": {
+      "type": "NativeModule",
+      "aliasMap": {},
+      "enumMap": {},
+      "spec": {
+        "properties": [
+          {
+            "name": "add",
+            "optional": false,
+            "typeAnnotation": {
+              "type": "FunctionTypeAnnotation",
+              "returnTypeAnnotation": {
+                "type": "NumberTypeAnnotation"
+              },
+              "params": [
+                {
+                  "name": "a",
+                  "optional": false,
+                  "typeAnnotation": {
+                    "type": "NumberTypeAnnotation"
+                  }
+                },
+                {
+                  "name": "b",
+                  "optional": false,
+                  "typeAnnotation": {
+                    "type": "NumberTypeAnnotation"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "moduleName": "RTNCalculator"
+    }
+  }
+}

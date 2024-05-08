@@ -1,0 +1,43 @@
+{
+  "name": "rtn-payment",
+  "version": "0.0.1",
+  "description": "Add numbers with Turbo Native Modules",
+  "react-native": "js/index",
+  "source": "js/index",
+  "files": [
+    "js",
+    "android",
+    "ios",
+    "rtn-payment.podspec",
+    "!android/build",
+    "!ios/build",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": "https://github.com/doulgs/rtn-payment",
+  "author": "ismael sousa ismael1998sousa@gmail.com> (https://github.com/ismaelsousa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doulgs/rtn-payment/issues"
+  },
+  "homepage": "https://github.com/doulgs/rtn-payment#readme",
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "codegenConfig": {
+    "name": "RTNPaymentSpec",
+    "type": "modules",
+    "jsSrcsDir": "js",
+    "android": {
+      "javaPackageName": "com.payment"
+    }
+  }
+}

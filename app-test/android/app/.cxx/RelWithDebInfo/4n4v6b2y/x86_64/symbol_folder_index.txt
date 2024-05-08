@@ -1,0 +1,1 @@
+C:\Desenvolvimento\AppTurboModules\app-test\android\app\build\intermediates\cxx\RelWithDebInfo\4n4v6b2y\obj\x86_64
