@@ -17,6 +17,7 @@ import com.facebook.react.flipper.ReactNativeFlipper
 import com.facebook.soloader.SoLoader
 
 import com.doulgs.apptest.PaymentModulePackage
+import com.doulgs.apptest.PrinterModulePackage
 
 import expo.modules.ApplicationLifecycleDispatcher
 import expo.modules.ReactNativeHostWrapper
@@ -28,6 +29,9 @@ class MainApplication : Application(), ReactApplication {
         object : DefaultReactNativeHost(this) {
           override fun getPackages(): List<ReactPackage> {
     val packages = mutableListOf<ReactPackage>()
+
+    // Adicione manualmente o DeepLinkModulePackage
+    packages.add(PrinterModulePackage())
 
     // Adicione manualmente o PaymentModulePackage
     packages.add(PaymentModulePackage())

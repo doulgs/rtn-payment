@@ -1,17 +1,17 @@
-import React, { useState } from "react";
-import { View, TextInput, Button, Alert, Linking } from "react-native";
-import { Picker } from "@react-native-picker/picker";
-
+import React from "react";
+import { Button, View } from "react-native";
 import PaymentModule from "./PaymentModule";
+import { realizarImpressao } from "./controlarImpressao";
 
 const App = () => {
   function handleOpenPayment() {
-    PaymentModule.startPayment("1000", "123", false, "DEBIT");
+    PaymentModule.startPayment("1000", "123", false, "CREDIT");
   }
 
   return (
     <View style={{ flex: 1, justifyContent: "center", gap: 16 }}>
       <Button title="Start Payment" onPress={handleOpenPayment} />
+      <Button title="Start Payment" onPress={realizarImpressao} />
       {/*  <Button title="Start Config" onPress={() => Linking.openSettings()} /> */}
     </View>
   );
