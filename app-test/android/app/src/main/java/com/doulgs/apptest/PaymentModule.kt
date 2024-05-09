@@ -18,7 +18,7 @@ class PaymentModule(reactContext: ReactApplicationContext) :
         const val INSTALLMENT_TYPE = "installment_type"
         const val INSTALLMENT_COUNT = "installment_count"
         const val TAG = "PaymentModule"
-        private const val RETURN_SCHEME = "com.doulgs.apptest"
+        private const val RETURN_SCHEME = "return_scheme"
     }
 
     override fun getName(): String {
@@ -49,7 +49,7 @@ class PaymentModule(reactContext: ReactApplicationContext) :
         val uriBuilder = Uri.Builder()
         uriBuilder.authority("pay")
         uriBuilder.scheme("payment-app")
-        uriBuilder.appendQueryParameter(RETURN_SCHEME, RETURN_SCHEME)
+        uriBuilder.appendQueryParameter(RETURN_SCHEME, "com.doulgs.apptest")
 
         // Adicionar parâmetros à URI
         uriBuilder.appendQueryParameter(AMOUNT, amount)

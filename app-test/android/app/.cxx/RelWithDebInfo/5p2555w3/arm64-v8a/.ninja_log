@@ -1,0 +1,18 @@
+# ninja log v5
+2	23	0	C:/Desenvolvimento/AppTurboModules/app-test/android/app/.cxx/RelWithDebInfo/5p2555w3/arm64-v8a/CMakeFiles/cmake.verify_globs	9d02d86cc61b9c2d
+30	8007	7369191862966928	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerState.cpp.o	54be054e670849d8
+18	8024	7369191863272522	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerState.cpp.o	fb9fa7666fd55746
+1	8280	7369191870483384	CMakeFiles/appmodules.dir/OnLoad.cpp.o	db5962bb99c75133
+13	8576	7369191875138299	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerShadowNode.cpp.o	9bb0a322f159becd
+49	8678	7369191876065469	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerShadowNode.cpp.o	46682e1cc141dfb
+41	8680	7369191880967075	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerMeasurementsManager.cpp.o	216fa96404e0065f
+9	8683	7369191881082298	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerMeasurementsManager.cpp.o	78e58b4658d30cd9
+71	8950	7369191883637635	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/rnpicker.cpp.o	c2c0300735bdefaa
+79	10985	7369191904774136	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/13a3346c4abf07491eb079097e3b46bb/jni/react/renderer/components/rnpicker/Props.cpp.o	43457ad2731a92
+8025	11005	7369191905345376	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/3f11df027ddd2259dea487c519455df1/renderer/components/rnpicker/rnpickerJSI-generated.cpp.o	fe172acd8756e1c
+8577	11063	7369191906027350	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/13a3346c4abf07491eb079097e3b46bb/jni/react/renderer/components/rnpicker/States.cpp.o	cf74f1ed9a8d44c9
+8013	11890	7369191914419341	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/e173086c0db3523cab575bad5c6bea28/react/renderer/components/rnpicker/EventEmitters.cpp.o	fe2e0ad7cdf4755a
+8293	11937	7369191914831734	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/13a3346c4abf07491eb079097e3b46bb/jni/react/renderer/components/rnpicker/ShadowNodes.cpp.o	7303cced0588b58d
+11937	12138	7369191916864379	C:/Desenvolvimento/AppTurboModules/app-test/android/app/build/intermediates/cxx/RelWithDebInfo/5p2555w3/obj/arm64-v8a/libreact_codegen_rnpicker.so	910aa5f4d9db198e
+24	12210	7369191917440408	CMakeFiles/appmodules.dir/C_/Desenvolvimento/AppTurboModules/app-test/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	22316d1d67f87b62
+12211	12363	7369191919136253	C:/Desenvolvimento/AppTurboModules/app-test/android/app/build/intermediates/cxx/RelWithDebInfo/5p2555w3/obj/arm64-v8a/libappmodules.so	a3f8d5de060d76f5

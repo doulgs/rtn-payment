@@ -1,0 +1,18 @@
+# ninja log v5
+3	22	0	C:/Desenvolvimento/AppTurboModules/app-test/android/app/.cxx/RelWithDebInfo/5p2555w3/x86_64/CMakeFiles/cmake.verify_globs	4b88625db8bb6f35
+43	4900	7369192259018784	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerState.cpp.o	957c4868ad884c08
+14	4996	7369192263034839	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerState.cpp.o	762b07c01bbac3dc
+91	5354	7369192265465315	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/13a3346c4abf07491eb079097e3b46bb/jni/react/renderer/components/rnpicker/EventEmitters.cpp.o	1cc4f2d2bac758ff
+29	5581	7369192267585316	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerShadowNode.cpp.o	6163a8c1912ab2bf
+10	5880	7369192271360970	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerShadowNode.cpp.o	f5c0a20ad9b5890
+2	5940	7369192272036203	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2077e2fc56e47db7
+25	7139	7369192277525484	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerMeasurementsManager.cpp.o	7cca3e8abfc59f8
+18	7141	7369192281982189	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerMeasurementsManager.cpp.o	272abfc6c5d5a899
+5355	8413	7369192297407126	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/71a285768b8e3bf95a7c1f1833a6ac5e/codegen/jni/react/renderer/components/rnpicker/States.cpp.o	3dd83628f9c71d25
+5582	8717	7369192300517480	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/3f11df027ddd2259dea487c519455df1/renderer/components/rnpicker/rnpickerJSI-generated.cpp.o	42393d1ed4ccaedd
+48	8768	7369192300957475	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/71a285768b8e3bf95a7c1f1833a6ac5e/codegen/jni/react/renderer/components/rnpicker/Props.cpp.o	10a5a0badd7a5e88
+4997	9215	7369192305541909	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/13a3346c4abf07491eb079097e3b46bb/jni/react/renderer/components/rnpicker/ShadowNodes.cpp.o	2c2ff8416d3a3729
+5	10189	7369192315165679	CMakeFiles/appmodules.dir/C_/Desenvolvimento/AppTurboModules/app-test/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	db4cff7a7afe1397
+4905	10302	7369192316436133	rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/rnpicker.cpp.o	c349ba591fc5799a
+10303	10415	7369192317566601	C:/Desenvolvimento/AppTurboModules/app-test/android/app/build/intermediates/cxx/RelWithDebInfo/5p2555w3/obj/x86_64/libreact_codegen_rnpicker.so	3096691429b25349
+10415	10528	7369192318680695	C:/Desenvolvimento/AppTurboModules/app-test/android/app/build/intermediates/cxx/RelWithDebInfo/5p2555w3/obj/x86_64/libappmodules.so	bb47e3f9d6a6a0a3

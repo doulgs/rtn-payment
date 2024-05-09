@@ -1,0 +1,1 @@
+C:\Desenvolvimento\AppTurboModules\app-test\android\app\build\intermediates\cxx\RelWithDebInfo\5p2555w3\obj\arm64-v8a
